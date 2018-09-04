@@ -17,7 +17,8 @@
       <pubDate>Sat, 01 Sep 2018 12:15:36 +0800</pubDate>
       
       <guid>http://cjwcjwcjwcjw.cn/post/test/</guid>
-      <description>1.cmd控制台 cd C:\Program Files\Redis 2.redis-server.exe redis.windows.conf 3. ok!!</description>
+      <description>1.cmd控制台 cd C:\Program Files\Redis
+2.redis-server.exe redis.windows.conf</description>
     </item>
     
     <item>
@@ -28,6 +29,7 @@
       <guid>http://cjwcjwcjwcjw.cn/post/first/</guid>
       <description>本地启动：hugo server - -theme=minimal-academic - -buildDrafts &amp;ndash;watch
 发布：hugo - -theme=minimal-academic - -baseUrl=&amp;ldquo;http://xxx.com/&amp;quot;
+将pubilc目录里所有文件 push 到刚创建的Repository的 master 分支。
 git 操作：
 git init
 git branch -a
